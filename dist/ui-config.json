@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "best quality, ultra high res, (photorealistic:1.4), natural lighting, high quality, Fujifilm XT3, professional lighting,1 girl,18 year old, (white collared shirt:1.2), (bralines showing:1.3), (red, pencil skirt:1.4), (red hair:1.3), (short, straight hair:1.2),(oiled skin:1.3), beautiful detailed girl, extremely detailed eyes and face, beautiful detailed eyes, big breasts, smiling, thick thighs, looking at viewer, outdoors, ocean, nature, sun, morning, peaceful, serene,stunning environment",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "(Worst Quality, Low Quality:1.4), Poorly Made Bad 3D, Lousy Bad Realistic, ((monochrome)), ((grayscale)), bad hands, easynegative, weird leg shape, deformed toes, deformed feet, extra feet, deformed foot, extra feet, extra thighs, extra hands, ((extra fingers)), ((missing fingers)), watermark, sign, ng_deepnegative_v1_75t",
+    "txt2img/Negative prompt/value": "(Worst Quality, Low Quality:1.4), Poorly Made Bad 3D, Lousy Bad Realistic, ((monochrome)), ((grayscale)), (bad hands:1.5), easynegative, weird leg shape, deformed toes, deformed feet, extra feet, deformed foot, extra feet, extra thighs, extra hands, (extra fingers:1.5), (missing fingers:1.5), watermark, sign, ng_deepnegative_v1_75t, liquid hands",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [],
     "txt2img/Sampling method/visible": true,
